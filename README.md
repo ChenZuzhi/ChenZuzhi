@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am currently an algorithm engineer at ByteDance, specializing in operations research optimization, parameter tuning and machine learning algorithms.
+
+I obtained a master's degree in Computer Science from the Institute of Computing Technology, Chinese Academy of Sciences in 2022. Prior to that, I received a bachelor's degree in Mechanical Engineering from Shanghai Jiao Tong University in 2019. I'm interested in fields such as machine learning and artificial intelligence.
+
+You can find my list of papers here: [Google Scholar](https://scholar.google.com/citations?user=EtiGn8MAAAAJ&hl=en&oi=ao)
